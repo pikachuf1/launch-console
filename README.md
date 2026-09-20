@@ -1,3 +1,3 @@
 # launch-console
-Day 1:
+# Day 1 at [startup] will replace later
 
